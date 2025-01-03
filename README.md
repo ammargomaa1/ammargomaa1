@@ -13,7 +13,7 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Ammar's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" /> </div> 
 
 ### 📫 Let's Connect!
-<div align="center"> <a href="https://www.linkedin.com/in/ammargomaa1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:ammargomaa1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/ammargomaa1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a> <a href="mailto:ammargomaa1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a> </div>
 <!--
 **ammargomaa1/ammargomaa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
