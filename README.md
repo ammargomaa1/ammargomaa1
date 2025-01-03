@@ -7,7 +7,7 @@
 - 🧠 Love exploring algorithms, system design, and databases.
 
 ### 🛠️ Languages and Tools
-<div align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" /> </div>
+<div align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel" /> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white" /> </div>
 
 ### 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Ammar's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" /> </div> 
